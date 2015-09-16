@@ -1,7 +1,7 @@
 # Ultimate Pig
 
 ## To View This Notebook
-Just click on the XXXXXX.ipynb file above.
+Just click on the `ultimate-pig.ipynb` file above.
 
 ## To Run This Notebook
 #### System Requirements / Installation
@@ -15,6 +15,6 @@ Just click on the XXXXXX.ipynb file above.
 * In your command-line program (such as Terminal on Mac&nbsp;OS&nbsp;X), navigate into the newly created repo. By default, this will be called `flipping-out`. Install the requirements file by runnning **`pip install -r requirements.txt`**.
 
 #### Opening the Notebook
-* Using a command-line program, navigate to the folder containing the downloaded file and run the following line: **`ipython notebook XXXXXX.ipynb`**
+* Using a command-line program, navigate to the folder containing the downloaded file and run the following line: **`ipython notebook ultimate-pig.ipynb`**
 
 * **Note:** This will open in a browser window and take over the command-line program's window until you close out of IPython Notebook. If you have closed your browser window, but your command line is still running the notebook, kill the process by pressing `Ctrl+C` or quitting the program entirely.
